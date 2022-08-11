@@ -13,12 +13,12 @@ sidebar:
 
     # Sidebar links
     email: monemmahsa9@gmail.com
-    phone: 012 345 6789
+    phone: +905367924196
     timezone: Turkey Timezone
     citizenship:
     website:  #do not add http://
     linkedin: mahsa-monem
-    xing: alandoe
+    xing: 
     github: mahsanaru
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -52,88 +52,51 @@ career-profile:
       With around 4 years of experience as a Cloud Engineer, I'm proficient in Kubernetes, OpenStack, 
       and Ceph. I'm currently looking for a full-time job opportunity in Cloud Engineering, DevOps or Mano.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Cloud Engineer
+      time: May 2020 - Jul 2022
+      company: Mobile Telecommunication Company of Iran (MCI)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        As a Cloud Administrator in the R&D department of MCI (the leading mobile operator in Iran), 
+        I had the following responsibilities:
+          - Project manager of Software-Defined Storage project
+          - Deploying ONAP and learning about its modules
+          - Learning about 5G core while deploying Free5GC and using URANSIM to test various scenarios
+          - Learning and deploying new technologies in IaaS and PaaS (Kubeflow, OpenFaas, Knative, Thingsboard, Istio, ...)
+          - Deploy and maintain OKD cluster
+          - Deploy and maintain Ceph cluster
+          - Deploy and maintain Kubernetes cluster
+          - Deploy and maintain Esxi cluster
+    - role: Docker Engineer
+      time: May 2019 - Apr 2020
+      company: AI Bridge, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        I was in charge of dockerizing several AI applications.
+    - role: Openstack Administrator
+      time: May 2017 - Sep 2019
+      company: ToobaTech, Iran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        As an OpenStack Administrator I had the following responsibilities:
+          - Deploy and maintain OpenStack clusters
+          - Deploy and maintain Gluster clusters
+          - Learning and deploying new technologies in IaaS and Paas
 education:
     - degree: MSc in Computer Engineering
       university: Tarbiat Modares University
       time: 2017 - 2020
       details: 
     - degree: BSc in Computer Engineering
-      university: Bristol University
+      university: Alzahra University
       time: 2012 - 2016
       details: 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux Administration
+      - name: Linux Admin
         level: 95%
         
-      - name: Kubernetes Adminstration
+      - name: Kubernetes Admin
         level: 80%
 
       - name: OpenStack
@@ -149,10 +112,10 @@ skills:
         level: 60%
 
       - name: Rancher
-        level: 50%
+        level: 60%
 
       - name: Ceph
-        level: 50%
+        level: 60%
 
       - name: HAProxy
         level: 50%
