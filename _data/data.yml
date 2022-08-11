@@ -89,14 +89,14 @@ education:
       time: 2012 - 2016
       details: 
 certificates:
-    - title: LFS244: Managing Kubernetes Applications with Helm
+    - title: "LFS244: Managing Kubernetes Applications with Helm"
       time: Issued Apr 2022
       issuer: The Linux Foundation
-      link: https://www.credly.com/badges/91feefed-9b94-4f66-9d12-c8f8d90ace4c
-    - title: LFS243: Service Mesh Fundamentals
+      link: "https://www.credly.com/badges/91feefed-9b94-4f66-9d12-c8f8d90ace4c"
+    - title: "LFS243: Service Mesh Fundamentals"
       time: Issued Nov 2021
       issuer: The Linux Foundation
-      link: https://www.credly.com/badges/739ab807-1fbf-4655-8e08-b4e0ecd446bd  
+      link: "https://www.credly.com/badges/739ab807-1fbf-4655-8e08-b4e0ecd446bd"
       
 skills:
     title: Skills &amp; Proficiency
