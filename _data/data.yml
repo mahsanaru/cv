@@ -9,12 +9,12 @@ sidebar:
     # Profile information
     name: Mahsa Monem
     tagline: Cloud Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: monemmahsa9@gmail.com
     phone: +905367924196
-    timezone: Turkey Timezone
+    timezone: İstanbul Timezone
     citizenship:
     website:  #do not add http://
     linkedin: mahsa-monem
@@ -62,10 +62,10 @@ experiences:
           - Deploying ONAP and learning about its modules
           - Learning about 5G core while deploying Free5GC and using URANSIM to test various scenarios
           - Learning and deploying new technologies in IaaS and PaaS (Kubeflow, OpenFaas, Knative, Thingsboard, Istio, ...)
-          - Deploy and maintain OKD cluster
-          - Deploy and maintain Ceph cluster
           - Deploy and maintain Kubernetes cluster
           - Deploy and maintain Esxi cluster
+          - Deploy and maintain Ceph cluster
+          - Deploy and maintain OKD cluster
     - role: Docker Engineer
       time: May 2019 - Apr 2020
       company: AI Bridge, Remote
