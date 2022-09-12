@@ -59,21 +59,27 @@ experiences:
         As a Cloud Administrator in the R&D department of MCI (the leading mobile operator in Iran), 
         I had the following responsibilities:
           - Deploy and maintain Kubernetes cluster:
-            Used Kubeadm and HAproxy to deploy HA clusters
+            - Used Kubeadm and HAproxy to deploy HA clusters
+            - Troubleshooted errors
           - Deploy and maintain Esxi cluster
-          - Deploy and maintain Ceph clusters
+          - Deploy and maintain Ceph clusters:
+            - Used Rook to install Ceph as Storage Class of Kubernetes
+            - Troubleshooted errors
           - Deploy and maintain OKD cluster:
-            Installed user-provisioned cluster by using PXE
-          - Project manager of Software-Defined Storage project:
-            Reviewing companies and their teams that participated in this tender
-            Writting the RFP
-            Review the WBS of the project
-            Review the LOP and LOS delivered by contractor
+            - Installed user-provisioned cluster by using PXE
           - Deploying ONAP and learning about its modules
-            Successfully deployed the cFW and Apache use cases
-            Learning 5G core components by deploying Free5GC and using URANSIM, VPP, OVN and OVS to deploy deploy E2E scenario
-          - Learning and deploying new technologies in IaaS and PaaS (Kubeflow, OpenFaas, Knative, Thingsboard, Istio, ...)
-
+            - Successfully deployed the cFW and Apache use cases
+            - Learning 5G core components by deploying Free5GC and using URANSIM, VPP, OVN and OVS to deploy deploy E2E scenario
+          - Learning and deploying new technologies in IaaS and PaaS:
+            - Deployed and maintained Kubeflow as our AI platform on our GPU cluster
+            - Deployed OpenFaas and Knative to check their capabalities as FaaS
+              Knative
+            - Deployed Thingsboard, Istio, ...)
+          - Project manager of Software-Defined Storage project:
+            - Reviewed companies and their teams that participated in this tender
+            - Wrote the RFP
+            - Reviewed the WBS of the project
+            - Reviewed the LOP and LOS delivered by contractor
     - role: Cloud Engineer
       time: May 2019 - Apr 2020
       company: AI Bridge, Remote
