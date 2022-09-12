@@ -58,13 +58,20 @@ experiences:
       details: |
         As a Cloud Administrator in the R&D department of MCI (the leading mobile operator in Iran), 
         I had the following responsibilities:
-          - Deploy and maintain Kubernetes cluster
+          - Deploy and maintain Kubernetes cluster:
+            Used Kubeadm and HAproxy to deploy HA clusters
           - Deploy and maintain Esxi cluster
           - Deploy and maintain Ceph clusters
-          - Deploy and maintain OKD cluster
-          - Project manager of Software-Defined Storage project
+          - Deploy and maintain OKD cluster:
+            Installed user-provisioned cluster by using PXE
+          - Project manager of Software-Defined Storage project:
+            Reviewing companies and their teams that participated in this tender
+            Writting the RFP
+            Review the WBS of the project
+            Review the LOP and LOS delivered by contractor
           - Deploying ONAP and learning about its modules
-          - Learning about 5G core while deploying Free5GC and using URANSIM to test various scenarios
+            Successfully deployed the cFW and Apache use cases
+            Learning 5G core components by deploying Free5GC and using URANSIM, VPP, OVN and OVS to deploy deploy E2E scenario
           - Learning and deploying new technologies in IaaS and PaaS (Kubeflow, OpenFaas, Knative, Thingsboard, Istio, ...)
 
     - role: Cloud Engineer
