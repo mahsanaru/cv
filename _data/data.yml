@@ -58,19 +58,20 @@ experiences:
       details: |
         As a Cloud Administrator in the R&D department of MCI (the leading mobile operator in Iran), 
         I had the following responsibilities:
+          - Deploy and maintain Kubernetes cluster
+          - Deploy and maintain Esxi cluster
+          - Deploy and maintain Ceph clusters
+          - Deploy and maintain OKD cluster
           - Project manager of Software-Defined Storage project
           - Deploying ONAP and learning about its modules
           - Learning about 5G core while deploying Free5GC and using URANSIM to test various scenarios
           - Learning and deploying new technologies in IaaS and PaaS (Kubeflow, OpenFaas, Knative, Thingsboard, Istio, ...)
-          - Deploy and maintain Kubernetes cluster
-          - Deploy and maintain Esxi cluster
-          - Deploy and maintain Ceph cluster
-          - Deploy and maintain OKD cluster
-    - role: Docker Engineer
+
+    - role: Cloud Engineer
       time: May 2019 - Apr 2020
       company: AI Bridge, Remote
       details: |
-        I was in charge of dockerizing several AI applications.
+        I was in charge of deploying and writing DockerFile for several of GPU-based AI applications.
     - role: Openstack Administrator
       time: May 2017 - Sep 2019
       company: ToobaTech, Iran
@@ -78,7 +79,9 @@ experiences:
         As an OpenStack Administrator I had the following responsibilities:
           - Deploy and maintain OpenStack clusters
           - Deploy and maintain Gluster clusters
-          - Learning and deploying new technologies in IaaS and Paas
+          - Monitoring the Datacenters with Check_MK (a Nagios extention)
+          - Wrote a plugin in Bash script for calculating Openstack services failure rate. 
+          - Learning and deploying new technologies in IaaS and Paas (CloudFoundry, Jenkins, ...)
 education:
     - degree: MSc in Computer Engineering
       university: Tarbiat Modares University
