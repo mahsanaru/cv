@@ -59,25 +59,26 @@ experiences:
         As a Cloud Administrator in the R&D department of MCI (the leading mobile operator in Iran), 
         I had the following responsibilities:
           - Deploy and maintain Kubernetes cluster:
-            - Used Kubeadm and HAproxy to deploy HA clusters
+            - Used Kubeadm to deploy clusters
             - Troubleshooted errors
           - Deploy and maintain Esxi cluster
           - Deploy and maintain Ceph clusters:
             - Used Rook to install Ceph as Storage Class of Kubernetes
             - Troubleshooted errors
           - Deploy and maintain OKD cluster:
-            - Installed user-provisioned cluster by using PXE
+            - Installed user-provisioned HA clusters by using PXE
           - Deploying ONAP and learning about its modules
             - Successfully deployed the cFW and Apache use cases
             - Learning 5G core components by deploying Free5GC and using URANSIM, VPP, OVN and OVS to deploy deploy E2E scenario
           - Learning and deploying new technologies in IaaS and PaaS:
             - Deployed and maintained Kubeflow as our AI platform on our GPU cluster
             - Deployed OpenFaas and Knative to check their capabalities as FaaS
-              Knative
-            - Deployed Thingsboard, Istio, ...)
+            - Deployed and learned Thingsboard:
+              - Check its capabilities as an IOT platform
+              - Wrote python script to send data to the platform
           - Project manager of Software-Defined Storage project:
             - Reviewed companies and their teams that participated in this tender
-            - Wrote the RFP
+            - Helped in writting the RFP
             - Reviewed the WBS of the project
             - Reviewed the LOP and LOS delivered by contractor
     - role: Cloud Engineer
@@ -90,8 +91,13 @@ experiences:
       company: ToobaTech, Iran
       details: |
         As an OpenStack Administrator I had the following responsibilities:
-          - Deploy and maintain OpenStack clusters
-          - Deploy and maintain Gluster clusters
+          - Deploy and maintain OpenStack clusters:
+            - I have experience working with the following modules: Nova, Glance, Cinder, Neutron
+            - Deployed the cluster with Packstack
+            - troubleshooted errors
+          - Deploy and maintain Gluster clusters:
+            - Deployed Gluster as the backend of Cinder service
+            - Designed the architecture
           - Monitoring the Datacenters with Check_MK (a Nagios extention)
           - Wrote a plugin in Bash script for calculating Openstack services failure rate. 
           - Learning and deploying new technologies in IaaS and Paas (CloudFoundry, Jenkins, ...)
