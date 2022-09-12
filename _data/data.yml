@@ -68,7 +68,7 @@ experiences:
           - Deploy and maintain OKD cluster:
             - Installed user-provisioned HA clusters by using PXE
           - Deploying ONAP and learning about its modules
-            - Successfully deployed the cFW and Apache use cases
+            - Successfully deployed the cFW and Apache use cases on Kubernetes
             - Learning 5G core components by deploying Free5GC and using URANSIM, VPP, OVN and OVS to deploy deploy E2E scenario
           - Learning and deploying new technologies in IaaS and PaaS:
             - Deployed and maintained Kubeflow as our AI platform on our GPU cluster
