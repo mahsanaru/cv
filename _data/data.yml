@@ -40,8 +40,11 @@ sidebar:
         level: Native
 
     interests:
-      - item: Video Game, Manga, Anime
-        link:
+     - item: Video Game
+         link:
+
+       - item: Manga
+         link:
 
 career-profile:
     title: About
