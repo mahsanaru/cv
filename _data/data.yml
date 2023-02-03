@@ -61,18 +61,18 @@ experiences:
           - Deploying ONAP and learning about its modules
             - Successfully deployed the cFW and Apache use cases on Kubernetes
             - Learning 5G core components by deploying Free5GC and using URANSIM, VPP, OVN and OVS to deploy deploy E2E scenario
-          - Deploy and maintain Kubernetes cluster:
+          - Deploy and Administration of Kubernetes cluster:
             - Used Kubeadm to deploy clusters
             - Troubleshooted errors
-          - Deploy and maintain Esxi cluster
-          - Deploy and maintain Ceph clusters:
+          - Deploy and Administration of Esxi cluster
+          - Deploy and Administration of Ceph clusters:
             - Used Rook to install Ceph as Storage Class of Kubernetes
             - Troubleshooted errors
           - Deploy and maintain OKD cluster:
             - Installed user-provisioned HA clusters by using PXE
-          - Learning and deploying new technologies in IaaS and PaaS:
-            - Deployed and maintained Kubeflow as our AI platform on our GPU cluster
-            - Deployed OpenFaas and Knative to check their capabalities as FaaS
+          - Learn and deploy new technologies in IaaS and PaaS:
+            - Deployed and researched about Kubeflow as our AI platform on our GPU cluster
+            - Deployed OpenFaas and Knative to check their capabalities as a FaaS platform
             - Deployed and learned Thingsboard:
               - Check its capabilities as an IOT platform
               - Wrote python script to send data to the platform
@@ -91,12 +91,12 @@ experiences:
       company: ToobaTech, Iran
       details: |
         As an OpenStack Administrator I had the following responsibilities:
-          - Deploy and maintain OpenStack clusters:
+          - Deploy and Administration of OpenStack clusters:
             - I have experience working with the following modules: Nova, Glance, Cinder, Neutron
             - Deployed the cluster with Packstack
             - troubleshooted errors
-          - Deploy and maintain Gluster clusters:
-            - Deployed Gluster as the backend of Cinder service
+          - Deploy and Administration of Gluster clusters:
+            - Used Gluster as the backend of Cinder service
             - Designed the architecture
           - Monitoring the Datacenters with Check_MK (a Nagios extention)
           - Wrote a plugin in Bash script for calculating Openstack services failure rate. 
