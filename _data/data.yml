@@ -145,12 +145,12 @@ skills:
         level: 90%
 
       - name: HELM
-        level: 85%
-
-      - name: OKD
         level: 60%
 
-      - name: Rancher
+      - name: Openshift
+        level: 60%
+
+      - name: Ansible
         level: 60%
 
       - name: Ceph
@@ -172,6 +172,9 @@ skills:
         level: 50%
 
       - name: Free5GC
+        level: 50%
+      
+      - name: ORAN
         level: 50%
 
 footer: 
