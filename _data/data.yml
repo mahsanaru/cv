@@ -70,6 +70,7 @@ experiences:
             - Learning 5G core components by deploying Free5GC and using URANSIM, VPP, OVN and OVS to deploy deploy E2E scenario
           - Deploy and Administration of Kubernetes cluster:
             - Used Kubeadm to deploy clusters
+            - Automated the Docker Images creation from Docker files and deployed the Docker containers in Kubernetes. 
             - Troubleshooted errors
           - Deploy and Administration of Esxi cluster
           - Deploy and Administration of Ceph clusters:
@@ -105,7 +106,7 @@ experiences:
           - Deploy and Administration of Gluster clusters:
             - Used Gluster as the backend of Cinder service
             - Designed the architecture
-          - Monitoring the Datacenters with Check_MK (a Nagios extention)
+          - Worked on System Monitoring using Check_MK (a Nagios extention).
           - Wrote a plugin in Bash script for calculating Openstack services failure rate. 
           - Learning and deploying new technologies in IaaS and Paas (CloudFoundry, Jenkins, ...)
 education:
@@ -139,10 +140,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux Admin
+      - name: Linux Administration
         level: 80%
         
-      - name: Kubernetes Admin
+      - name: Kubernetes Administration
         level: 80%
 
       - name: OpenStack
